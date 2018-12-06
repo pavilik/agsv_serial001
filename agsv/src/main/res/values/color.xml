@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#ffffff</color>
+    <color name="inlinebackground">#6b9b51</color>
+    <color name="errorbackground">#ef5350</color>
+    <color name="checkbackground">#ffee58</color>
+
+</resources>
